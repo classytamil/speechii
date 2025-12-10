@@ -1,0 +1,4 @@
+streamlit
+gtts
+bcrypt
+google-generativeai
